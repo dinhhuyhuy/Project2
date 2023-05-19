@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "syscall.h": "c",
+        "string_view": "cpp",
+        "typeinfo": "cpp",
+        "copyright.h": "c",
+        "iostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "errno.h": "c",
+        "memory_resource": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.dimInactiveRegions": false
+}
